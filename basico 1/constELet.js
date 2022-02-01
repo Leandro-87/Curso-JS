@@ -1,5 +1,5 @@
 const nome = 'Leandro'
-const sobrenome = 'Garcia'
+const sobrenome = 'Ferreira Garcia'
 const peso = 72
 const altura = 1.76
 let imc = peso / (altura * altura)
